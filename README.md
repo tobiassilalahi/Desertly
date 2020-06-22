@@ -7,10 +7,10 @@ Created by Bangkit group JKT-1B:
 * Theresia Veronika Rampisela, @theresiavr
 * Tobias Ivandito Margogo Silalahi, @tobiassilalahi
 
-##Introduction
+## Introduction
 We implement our Dessert Classification Model on an IOS Mobile Application that is written in Swift. Hence our application is only available in the App Store.
 
-##How to use Desertly
+## How to use Desertly
 
 1. Download the TestFlight Application which is an online service for over-the-air installation and testing of mobile applications, currently owned by Apple Inc and only offered to developers within the iOS Developer Program
 2. Download Desertly Application by clicking the links https://testflight.apple.com/join/ugVAqM9n
